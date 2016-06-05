@@ -138,7 +138,7 @@ TYPE_TRANSIT_STATION = 'transit_station'
 
 # autocomplete types
 AC_TYPE_GEOCODE = 'geocode'
-AC_TYPE_ADDDRESS = 'address'
+AC_TYPE_ADDRESS = 'address'
 AC_TYPE_ESTABLISHMENT = 'establishment'
 AC_TYPE_REGIONS = '(regions)'
 AC_TYPE_CITIES = '(cities)'
